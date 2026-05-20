@@ -1,0 +1,7 @@
+// include standard library, it contains inbuilt functions like printf, scanf
+#include<stdio.h>
+int main()
+{
+    printf("I am a EEE student");
+    return 0;
+}
